@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactStudioWorkshop2/static/css/main.073c9b0a.css",
+    "main.js": "/ReactStudioWorkshop2/static/js/main.f146cd9a.js",
+    "static/js/787.55b8c66c.chunk.js": "/ReactStudioWorkshop2/static/js/787.55b8c66c.chunk.js",
+    "static/media/logo.svg": "/ReactStudioWorkshop2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactStudioWorkshop2/index.html",
+    "main.073c9b0a.css.map": "/ReactStudioWorkshop2/static/css/main.073c9b0a.css.map",
+    "main.f146cd9a.js.map": "/ReactStudioWorkshop2/static/js/main.f146cd9a.js.map",
+    "787.55b8c66c.chunk.js.map": "/ReactStudioWorkshop2/static/js/787.55b8c66c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f146cd9a.js"
+  ]
+}
